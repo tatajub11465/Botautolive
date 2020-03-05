@@ -1,0 +1,2 @@
+# Botautolive
+กูเอง Scriptking SCK
