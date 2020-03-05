@@ -9,7 +9,7 @@ pkg install python
 
 pkg install nano
 
-<> สำหรับใครติดตั้งโมดูลมาแล้วก็ไม่ต้องทำอีก <>
+     <> สำหรับใครติดตั้งโมดูลมาแล้วก็ไม่ต้องทำอีก <>
 
 git clone  https://github.com/tatajub11465/Botautolive/
 
