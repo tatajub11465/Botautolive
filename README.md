@@ -17,6 +17,8 @@ cd Botautolive
 
 pip install requirements.txt
 
+pip install colorama
+
 pip istall requests
 
 python YT.py  
