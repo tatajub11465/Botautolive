@@ -96,7 +96,7 @@ def bot():
             pass
 
 time.sleep(7)
-maxthreads = int(input("\n\033[01;33m\033[01;32m[PortBot]\033[01;33m\033[01;34m└╼\033[01;36m >>ใส่Portที่ต้องการ:"))
+maxthreads = int(input("\n\033[01;33m\033[01;32m[ใส่เทรด 500-1000]\033[01;33m\033[01;34m└╼\033[01;36m >>ใส่Portที่ต้องการ:"))
 
 threading.Thread(target=a.printservice).start()
 num = 0
