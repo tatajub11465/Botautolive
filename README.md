@@ -19,7 +19,7 @@ pip install requirements.txt
 
 pip install colorama
 
-pip istall requests
+pip install requests
 
 python YT.py  
 
